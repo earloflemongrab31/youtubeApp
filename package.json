@@ -13,7 +13,7 @@
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
     "react-native": "~0.61.4",
-    "react-native-fast-image": "^7.0.2",
+    "react-native-fast-image": "^8.3.0",
     "react-native-fast-image-expo": "^0.0.5",
     "react-native-gesture-handler": "~1.5.0",
     "react-native-img-cache": "^1.6.0",
